@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "Cook-Geeks-Conference",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501
+	}
+}
